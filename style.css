@@ -1,0 +1,392 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,400;1,500&family=Poppins&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+     position: relative; 
+    background: #f8f2f2; 
+    min-height: 4852px;
+    min-width: 1440px;
+top: 10px;
+height: 100%; 
+}
+ .content {
+    /* width: 960px ; */
+    height: 1000px;
+} 
+.navigation {
+    position: relative;
+    font-family: Poppins;
+    /* text-decoration: none; */
+    text-align: center;
+
+padding-top: 20px;
+
+}
+a {
+    padding-right: 50px;
+    text-decoration: none;
+    color: #1A2236;
+}
+p {
+    position: relative;
+    font-family: Poppins;
+    /* text-align: center; */
+    width: 30%;
+    left: 130px;
+    top: -830px;
+    letter-spacing: -0.01em;
+    line-height: 21px;
+    font-size: 14px;
+    color: #1A2236;
+}
+h1 {
+    position: relative;
+    font-family: Playfair Display;
+    font-size: 110px;
+    font-weight: 400;
+    width: 484px;
+    height: 220px;
+    left: 130px;
+   top: 100px;
+   line-height: 110px;
+   color: #1A2236;
+
+}
+img[alt="vector1"] {
+    position: relative;
+    left: 650px;
+    top: -370px;
+    height: 877px;
+    
+}
+img[alt="start button"] {
+    position: relative;
+    top: -900px;
+    left: 130px;
+}
+img[alt="dot image"] {
+    position: relative;
+    top: -661px;
+    left: 167px;
+}
+img[alt="projects"] {
+    position: relative;
+    left: 130px;
+    top: -40em;
+}
+img[alt=macbook] {
+position: relative;
+left: 340px;
+top: -30em;
+/* width: 897px; */
+}
+img[alt="grey rectangle"] {
+    position: relative;
+    left: 450px;
+    top: -52em;
+    /* width: 897px; */
+}
+img[alt="html/css"] {
+    position: relative;
+    top: -63em;
+    left: -45em;
+}
+img[alt="ruby"] {
+    position: relative;
+    top: -80.2em;
+    left: 43em;
+}
+img[alt="javascript"] {
+    position: relative;
+    top: -80.2em;
+    left: 46em;
+}
+img[alt="see project"] {
+    position: relative;
+    top: -56em;
+    left: -28.5em;
+}
+img[alt="laptop1"] {
+    position: relative;
+    top: -48em;
+    left: -22em;
+}
+ img[alt="blackrectangle"] {
+    position: relative;
+width: 465px;
+height: 218px;
+top: -82.5em;
+left: 55em;
+} 
+img[alt="laptop3"] {
+    position: relative;
+    top: -48.4em;
+    left: -31em;
+    width:730px;
+}
+img[alt="laptop2"] {
+    position: relative;
+    top: -38.8em;
+    left: 5.5em;
+}
+img[alt="image3"] {
+    position: relative;
+    top: -68em;
+    left: 44em;
+}
+img[alt="image4"] {
+    position: relative;
+    top: -94.5em ;
+    left:-13.33em;
+    width: 450px;
+}
+.languages, .skills, .frameworks {
+    color: #FFFFFF;
+    font-family: Poppins;
+}
+img[alt="blue1"] {
+    position: relative;
+    top: -40em;
+    left: -60em;
+}
+img[alt="red1"] {
+    position: relative;
+    top: -58.32em;
+    left: 26.7em;
+}
+img[alt="orange1"] {
+    position: relative;
+    top: -40.3em;
+    left: -9.7em;
+}
+.languages {
+    position: relative;
+    top: -76em;
+    left: 13em;
+    line-height: 2rem;
+}
+.skills {
+    position: relative;
+    top: -81em;
+    left: 13em;
+    line-height: 2rem;
+}
+.frameworks {
+    position: relative;
+    top: -88em;
+    left: 30em;
+    line-height: 2rem;
+}
+h2 {
+    position: relative;
+    left: 1em;
+}
+h3 {
+    position: relative;
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-size: 110px;
+    line-height: 100%;
+    color: #1A2236;
+    top: -17.5em;
+    left: 7em;
+}
+p1 {
+    position: relative;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #1A2236;
+    width: 33%;
+    
+    top: -143em;
+    float: right;
+    left: -14.5em;
+}
+img[alt="getcv"] {
+    position: relative;
+    top: -119em;
+    left: 48em;
+}
+img[alt="dots3"] {
+    position: relative;
+    top: -109em;
+    left: 11em;
+}
+img[alt="shape"] {
+    position: relative;
+    top: -119em;
+    left: 10.6em;
+}
+img[alt="finishing"] {
+    position: relative;
+    top: -102em;
+}
+h4 {
+    position: relative;
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-size: 110px;
+    text-align: center;
+    top: -18.5em;
+}
+p2 {
+    position: relative;
+    font-family: Poppins;
+    float: right;
+    top: -135em;
+    width: 40%;
+    left: -25em;
+}
+.textfield {
+    position: relative;
+    top: -125em;
+}
+/* .name, .email {
+position: relative;
+    padding: 20px;
+    width: 100px;
+    float: left;
+    height: 50px;
+    margin-right: 90px;
+}
+.message {
+    float: right;
+
+} */
+input[type="email"]
+{
+    position: relative;
+    font-size:20px;
+    line-height: 50px;
+    float: right;
+    left: 18em;
+    top: -0.2em;
+
+}
+input[name="full name"] {
+    position: relative;
+    font-size: 20px;
+    line-height: 50px;
+    float: right;
+    left: -8.3em;
+    top: 1em;
+}
+input[message="message"] {
+    position: relative;
+    font-size: 24px;
+    line-height: 150px;
+    width: 37%;
+    left: 19em;
+    top: 3em;
+
+} p3, p4, p5 {
+    font-family: Poppins;
+}
+p3 {position: relative;
+    left: 29em;
+    top: -0.3em;
+}
+p4 {
+    position: relative;
+    left: 47.2em;
+    top: -1.7em;
+}
+p5 {
+    position: relative;
+    left: 29em;
+    top: 5em;
+}
+img[alt="start"] {
+    position: relative;
+    left: 38em;
+    top: 7em;
+} img[alt=lastvector] {
+    position: relative;
+float: right;
+left: -6em;
+top: -132em;
+}
+#socials {
+    position: relative;
+    display: flex;
+    width: 1440px;
+    height: 123px;
+    background: #1A2236;
+    top: 205.4em;
+
+} .social li{   
+    list-style-type: none;
+}
+img[alt="twitter"] {
+    position: relative;
+    top: 2em;
+    left: 15em;
+}
+
+img[alt="linkedin"] {
+ position: relative;
+ top: 0.3em ;
+ left: 19em
+}
+
+img[alt="github"] {
+    position: relative;
+    top: -1.4em;
+    left: 23em;
+}
+img[alt="getmycv"] {
+    position: relative;
+    width: 145px;
+    height: 25px;
+    top: 3em;
+    left: 10em;
+}
+.social {
+    position: relative;
+    left: 31em;
+}
+h5 {
+    position: relative;
+    font-family: Playfair Display;
+    font-size: 40px;
+    font-weight: 400;
+    color: #FFFFFF;
+    top: -74em;
+    left:5.3em;
+}
+h6 {
+    position: relative;
+    font-family: Playfair Display;
+    font-size: 30px;
+    font-weight: 400;
+    color: #FFFFFF;
+    top: -87em;
+    left: 5em;
+}
+img[alt="htmlcss"] {
+    position: relative;
+    top: 41em;
+    left: 58em;
+}
+img[alt="rubyonrails"] {
+    position: relative;
+    top: 41em;
+    left: 59em;
+}
+img[alt="seethisproject"] {
+    position: relative;
+    top: 46em;
+    left: 38.9em;
+}
+img[alt="plus1"] {
+    position: relative;
+    top: 41em;
+    left: 46em;
+}
