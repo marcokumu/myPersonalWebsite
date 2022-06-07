@@ -14,6 +14,16 @@ body {
 top: 10px;
 height: 100%; 
 }
+.video {
+    position: absolute;
+    z-index: -1;
+   top: 0;
+}
+.video1 {
+    position: absolute;
+    z-index: -1;
+    bottom: 0;
+}
  .content {
     /* width: 960px ; */
     height: 1000px;
@@ -243,6 +253,7 @@ p2 {
     top: -135em;
     width: 40%;
     left: -25em;
+    color: #1A2236;
 }
 .textfield {
     position: relative;
