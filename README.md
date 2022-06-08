@@ -11,8 +11,8 @@ After my brilliant experience with learning HTML and CSS, I decided to put my kn
 
  # Installation process 
   
-  link to clone the project is below.
+  Link to clone the project is below.
 
   
-  - 'git clone 'git@github.com:marcokumu/myPersonalWebsite.git''
+  - git@github.com:marcokumu/myPersonalWebsite.git
 
