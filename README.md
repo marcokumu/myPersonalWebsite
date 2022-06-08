@@ -4,8 +4,13 @@ After my brilliant experience with learning HTML and CSS, I decided to put my kn
  
  [Portfolio Website] (https://marcokumu.github.io/myPersonalWebsite/)
 
- # Technologies used.
+ # Languages used
  - HTML
  - CSS
  - JavaScript
+
+ # Installation process 
+  
+  link to clone the project is below.
+  'git clone git@github.com:marcokumu/myPersonalWebsite.git
 
